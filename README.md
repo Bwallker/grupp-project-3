@@ -15,3 +15,10 @@ mvn javafx:run
 Efter att vi gjort programmerings delen började vi med UML-diagrammet. Vi använde samma plugin som förra gången för att gjöra diagrammet och det tog hälften mindre säätöä en i uppgift 1 att få pluginet att fungera.
 
 Diagramet finns i projekets root folder som filen diagram.png
+
+
+## Grupp
+
+William Flythström
+Lucas Kujala
+Ben Bergenwall
